@@ -1,4 +1,4 @@
-<h1 align="center">📈 STS · Stocks Trader Service</h1>
+<h1 align="center">📈 STS (Stocks Trader Service)</h1>
 
 <p align="center"><b>AI-managed daily stock picks — delivered before 7 AM ET.</b></p>
 
